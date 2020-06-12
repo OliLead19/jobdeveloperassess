@@ -14,6 +14,11 @@ This will initialise the virtual server and create the correct database files
 4) Now run command- 
 vagrant halt
 This will export all the files and allow the merging of files from the zip folder
-5)Extract the zip folder given and copy the job folder and database file into the newly created websites folder inside the root folder created in step 1 - Click Replace files if nessersary 
+5)Download and copy the job folder and database file into the newly created websites folder inside the root folder created in step 1 - Click Replace files if nessersary 
 6) Finally, run vagrant up to boot up server and databases
 7) navigate to job.v.je to browse website
+
+
+
+SKYPE DETAILS - EMAIL ADDRESS - o.k.leadbitter@live.co.uk
+or Username - timeardis
